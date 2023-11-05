@@ -1,4 +1,4 @@
-# SunFusionOrgan
+# www.fusionsun.org
 Develop Energy For Fusion Generations
 1.   Why?
 
